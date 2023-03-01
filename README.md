@@ -1,6 +1,6 @@
 # typerally
 
-A new Flutter project.
+A new Flutter project.It is multiplayer typing game.
 
 ## Getting Started
 
